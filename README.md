@@ -1,4 +1,5 @@
 # Graduation-Research-Project
+
 **Topic:** A Study on Gap Recognition and Merchandise Recommendation to Match Customer Demands and Foster Paragon’s E-commerce Performance
 
 **Organisation:** Tenovia Solutions Pvt Ltd.
@@ -25,4 +26,5 @@ There was a significant 511% month on month growth on sliders, a decent growth w
 Paragon have launched merchandises in the sliders, slippers and flip- flops, sneakers, formal shoes, sports shoes, casual shoes and women sandal categories recently as per the recommendation in the month of April and a significant growth in these categories were noted for the month of May. The overall planning and execution of the strategies have resulted in a positive outcome.
 
 **References:**
-1. Changing footwear trends in India | IBEF 2. Shoe trends that will dominate spring-summer 2021 - Times of India (indiatimes.com)
+1. Changing footwear trends in India | IBEF 
+2. Shoe trends that will dominate spring-summer 2021 - Times of India (indiatimes.com)
