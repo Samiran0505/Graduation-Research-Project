@@ -27,4 +27,5 @@ Paragon have launched merchandises in the sliders, slippers and flip- flops, sne
 
 **References:**
 1. Changing footwear trends in India | IBEF 
+ 
 2. Shoe trends that will dominate spring-summer 2021 - Times of India (indiatimes.com)
